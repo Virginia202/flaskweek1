@@ -1,0 +1,23 @@
+Help on class Credentials in module credentials:
+
+class CCrreeddeennttiiaallss(builtins.object)
+ |  class that generates new instances of credentials
+ |  
+ |  Methods defined here:
+ |  
+ |  ____iinniitt____(self, credential_name, user_name, password, email)
+ |      Initialize self.  See help(type(self)) for accurate signature.
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data descriptors defined here:
+ |  
+ |  ____ddiicctt____
+ |      dictionary for instance variables (if defined)
+ |  
+ |  ____wweeaakkrreeff____
+ |      list of weak references to the object (if defined)
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data and other attributes defined here:
+ |  
+ |  CCrreeddeennttiiaallss__lliisstt = []
