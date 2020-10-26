@@ -13,8 +13,8 @@ A user types in an action they want to be executed and the application executes 
 Clone this repository to you desktop using this command (git clone)
 
 ### Known Bugs
-When entering the password the application crashes
-Support and contact
+no known bug
+## Support and contact
 Contact virgisonie20@gmail.com
 
 ## License
